@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/alx-system_engineering
+/tmp/my_first_directory: directory
